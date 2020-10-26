@@ -1,0 +1,26 @@
+cython
+fire
+jupyterlab
+numpy
+open3d-python
+pillow
+python-box
+seaborn
+tensorboardX
+torch==1.5.1+cu101
+torchvision==0.6.1+cu101
+tqdm
+transforms3d
+pybullet
+gym
+visdom
+pytorch_lightning
+-f https://download.pytorch.org/whl/torch_stable.html
+sqlalchemy
+psycopg2
+boto3
+sklearn
+train[s3]
+pytorch-lightning-bolts
+imgaug
+imageio-ffmpeg

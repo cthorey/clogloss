@@ -1,0 +1,9 @@
+build-essential
+cmake
+git
+libpq-dev
+python3-pip
+libsm6
+libxext6
+libxrender-dev
+ffmpeg
